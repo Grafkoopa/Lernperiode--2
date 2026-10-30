@@ -7,16 +7,20 @@
 
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+
 Ich habe bisher noch keine Noten
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
 Ich möchte noch produktiver sein
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+
 Weiss ich noch nicht. Ich glaub ich werde diese Lernperiode dafür benutzen an den Modulen der anderen Fächer arbeiten
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
+> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbei den Dungeon crawler programmieren
 ## Tagesplanungen
 
 ### Planung 23.10.2026
