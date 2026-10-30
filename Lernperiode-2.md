@@ -32,11 +32,11 @@ Weiss ich noch nicht. Ich glaub ich werde diese Lernperiode dafür benutzen an d
 ### Planung 30.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ] ...
-- [X] Viertes AP
+- [x] Modul 319 mission 7 nochmal wiederholen
+- [x] Github fertig machen
+- [X] selber ein Projekt überlegen
 
 (Heute habe ich... (50-100 Wörter))
-
+Ich habe heute noch einmal die Mission 7 des Modules 319 wiederholt da ich dort in der Prüfung am meisten Probleme hatte. Ausserdem habe ich die neue Github Vorlage übernommen und alle Daten hinein geschrieben. Ich habe mir auch ein Projekt überlegt. Ich möchte wann immer ich nicht an Modulen arbeite einen kleinen turn-based Dungeon crawler programmieren.
 ## Lernperiode Reflexion  
 (In dieser Lernperiode habe ich... (100-150 Wörter))
