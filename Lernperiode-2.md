@@ -26,9 +26,9 @@ Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbe
 ### Planung 23.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Module 431 zu ende machen
+- [x] auf Module 319 Prüfung vorbereiten
+- [X] 
 
 (Heute habe ich... (50-100 Wörter))
 
