@@ -28,7 +28,7 @@ Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbe
 
 - [x] Module 431 zu ende machen
 - [x] auf Module 319 Prüfung vorbereiten
-- [X] 
+- [X] übungsprüfung machen
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -41,5 +41,16 @@ Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbe
 - [X] selber ein Projekt überlegen
 
 Ich habe heute noch einmal die Mission 7 des Modules 319 wiederholt da ich dort in der Prüfung am meisten Probleme hatte. Ausserdem habe ich die neue Github Vorlage übernommen und alle Daten hinein geschrieben. Ich habe mir auch ein Projekt überlegt. Ich möchte wann immer ich nicht an Modulen arbeite einen kleinen turn-based Dungeon crawler programmieren.
-## Lernperiode Reflexion  
+
+
+### Planung 6.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Modul 162 Aufgabe 1721 abschliessen
+- [x] Modul 162 Aufgabe 1722 lösen
+- [x] Mein und Jeremys Projekt testen
+
+Ich habe heute die Aufgabe 1721 und 1722 des Moduls 162 fertig gemacht. Ich habe ausserdem mit der Aufgabe 1723 angefangen. Mein und Jeremys Projekt habe ich auch noch getestet und eine Rückmeldung gegeben. Ich habe grosse Fortschritte gemacht
+
+## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
