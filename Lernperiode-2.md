@@ -52,5 +52,14 @@ Ich habe heute noch einmal die Mission 7 des Modules 319 wiederholt da ich dort 
 
 Ich habe heute die Aufgabe 1721 und 1722 des Moduls 162 fertig gemacht. Ich habe ausserdem mit der Aufgabe 1723 angefangen. Mein und Jeremys Projekt habe ich auch noch getestet und eine Rückmeldung gegeben. Ich habe grosse Fortschritte gemacht
 
+
+### Planung 13.11.2026
+
+- [x] Modul 162 Aufgabe 1731 abschliessen
+- [x] Neues Projekt/Game mit Jeremy planen
+- [x] Unity Grundlagen anschauen
+
+Heute habe ich die Aufgabe 1731 des Moduls 162 abgeschlossen. Danach habe ich mich mit Jeremy zusammen gesetzt und überlegt was für ein Game wir programmieren könnten. Wir haben uns schluss endlich auf ein "jump and run" geeinigt und werden das nächste mal damit anfangen. Ich und Jeremy wollen das Spiel auf Unity erstellen. Ich habe mir heute ein paar tutorials dazu angeschaut und auch selber ein bisschen herum probiert.
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
