@@ -12,25 +12,25 @@ Ich habe bisher noch keine Noten
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 
-Ich möchte noch produktiver sein
+Ich mehr programmieren
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 
-Weiss ich noch nicht. Ich glaub ich werde diese Lernperiode dafür benutzen an den Modulen der anderen Fächer arbeiten
+Ich möchte lernen ein simples Spiel in Unity zu erstellen.
 ### Generelle Ziele
 
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbei den Dungeon crawler programmieren
+Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbei mit Jeremy an unserem Game arbeiten
 ## Tagesplanungen
 
 ### Planung 23.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [x] Module 431 zu ende machen
-- [x] auf Module 319 Prüfung vorbereiten
+- [x] Modul 431 zu ende machen
+- [x] auf Modul 319 Prüfung vorbereiten
 - [X] übungsprüfung machen
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute das Modul 431 fertig gemacht. Ich habe ausserdem mich auf die Prüfung des Moduls 319 vorbereitet und eine übungsprüfung gemacht. 
 
 
 ### Planung 30.10.2026
@@ -38,19 +38,18 @@ Ich möchte in dieser Lernperiode weitere an meinen Modulen arbeiten und nebenbe
 
 - [x] Modul 319 mission 7 nochmal wiederholen
 - [x] Github fertig machen
-- [X] selber ein Projekt überlegen
+- [X] Ein Projekt überlegen
 
-Ich habe heute noch einmal die Mission 7 des Modules 319 wiederholt da ich dort in der Prüfung am meisten Probleme hatte. Ausserdem habe ich die neue Github Vorlage übernommen und alle Daten hinein geschrieben. Ich habe mir auch ein Projekt überlegt. Ich möchte wann immer ich nicht an Modulen arbeite einen kleinen turn-based Dungeon crawler programmieren.
-
+Ich habe heute noch einmal die Mission 7 des Modules 319 wiederholt da ich dort in der Prüfung am meisten Probleme hatte. Ausserdem habe ich die neue Github Vorlage übernommen und alle Daten hinein geschrieben. Ich habe mir auch ein Projekt überlegt. Ich werde mit Jeremy an einem kleinen game arbeiten, wir haben uns aber noch nicht wirklich gedanken gemacht.
 
 ### Planung 6.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Modul 162 Aufgabe 1721 abschliessen
 - [x] Modul 162 Aufgabe 1722 lösen
-- [x] Mein und Jeremys Projekt testen
+- [x] Jeremys und mein Projekt testen
 
-Ich habe heute die Aufgabe 1721 und 1722 des Moduls 162 fertig gemacht. Ich habe ausserdem mit der Aufgabe 1723 angefangen. Mein und Jeremys Projekt habe ich auch noch getestet und eine Rückmeldung gegeben. Ich habe grosse Fortschritte gemacht
+Ich habe heute die Aufgabe 1721 und 1722 des Moduls 162 fertig gemacht. Ich habe ausserdem mit der Aufgabe 1723 angefangen. Mein und Jeremys Projekt habe ich auch noch getestet und eine Rückmeldung gegeben. Ich habe grosse Fortschritte gemacht.
 
 
 ### Planung 13.11.2026
@@ -61,5 +60,13 @@ Ich habe heute die Aufgabe 1721 und 1722 des Moduls 162 fertig gemacht. Ich habe
 
 Heute habe ich die Aufgabe 1731 des Moduls 162 abgeschlossen. Danach habe ich mich mit Jeremy zusammen gesetzt und überlegt was für ein Game wir programmieren könnten. Wir haben uns schluss endlich auf ein "jump and run" geeinigt und werden das nächste mal damit anfangen. Ich und Jeremy wollen das Spiel auf Unity erstellen. Ich habe mir heute ein paar tutorials dazu angeschaut und auch selber ein bisschen herum probiert.
 
+
+### Planung 20.11.2026
+
+- [ ] 
+- [ ]
+- [ ]
+
+  
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
